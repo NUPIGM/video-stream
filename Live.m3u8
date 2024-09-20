@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-id=“” tvg-name="” tvg-logo="" group-title=“股票”,筹码枫哥
+#EXTINF:-1 group-title=“股票”,筹码枫哥
 http://148.135.6.246:35455/douyin/623759518946
+#EXTINF:-1 group-title=“帝国时代”,帝国时代-肥龙
+http://148.135.6.246:35455/douyin/328693937643
