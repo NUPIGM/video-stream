@@ -1,6 +1,5 @@
-#EXTM3U x-tvg-url=""
-
-#EXTINF:-1 group-title=“股票”,筹码枫哥
-http://148.135.6.246:35455/douyin/623759518946
-#EXTINF:-1 group-title=“帝国时代”,帝国时代-肥龙
+#EXTM3U
+#EXTINF:-1 group-title=“斗鱼”,帝国时代-肥龙
 http://148.135.6.246:35455/douyin/328693937643
+#EXTINF:-1 group-title=“抖音”,帝国时代-火车
+http://148.135.6.246:35455/douyu/753676
